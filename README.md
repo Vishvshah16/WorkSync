@@ -144,4 +144,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## Author
+
+**Vishva Shah**
+[LinkedIn](https://www.linkedin.com/in/vishva-shah-1870361a5/) · [GitHub](https://github.com/Vishvshah16)
+
 <p align="center">Made with ❤️ by <a href="https://github.com/Vishvshah16">Vishva Shah</a></p>
